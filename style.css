@@ -1,0 +1,18 @@
+.navbar-brand {
+    font-family: 'Agustina', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+    text-align:center;
+}
+
+table{
+    background-color:#C0C0C0;
+}
+
+td{
+    text-align:center;
+}
